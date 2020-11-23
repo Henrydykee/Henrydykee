@@ -17,13 +17,6 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<details open>
- <summary> <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Henrydykee&show_icons=true&theme=tokyonight&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Henrydykee&hide=css,java,html&theme=tokyonight">
-</p>
-</details>
+
   
 
