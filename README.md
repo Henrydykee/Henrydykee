@@ -18,7 +18,7 @@
 </a>&nbsp;&nbsp;
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary> <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Henrydykee&show_icons=true&theme=tokyonight&line_height=33">
