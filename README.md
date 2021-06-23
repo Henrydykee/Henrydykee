@@ -16,6 +16,13 @@
 <a href="mailto:dykeehenry@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
+ 
+ ## My contribution streak
+<!-- https://github.com/kcoder63/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/Henrydykee/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrydykee&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a><p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Henrydykee&theme=chartreuse-dark)](https://github.com/Henrydykee/github-readme-activity-graph)
 
