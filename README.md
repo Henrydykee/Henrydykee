@@ -24,7 +24,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrydykee&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a><p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Henrydykee&theme=chartreuse-dark)](https://github.com/Henrydykee/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Henrydykee&theme=chartreuse-dark)](https://github.com/Henrydykee/github-readme-activity-graph) -->
 
 
 
