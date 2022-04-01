@@ -2,6 +2,7 @@
 
 <p align='center'>I'm a Software Engineer focused on helping people bring their dreams to reality.</p>
 <p align='center'>I am open to gigs including startup projects because i am looking to expand my horizon</p>
+<p align='center'>Here is a link to my profile :https://plastic-alibi-4ec.notion.site/Ugochukwu-Dike-8422d01eda244002914aa2143365df88 </p>
 
 <p align='center'>
 <a href="https://wa.me/2347012053471?text=Hello Henry I need you for a gig">
