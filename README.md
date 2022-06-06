@@ -21,9 +21,9 @@
 <p align="center">
   <a href="https://github.com/Henrydykee/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrydykee&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a><p>
-
-https://activity-graph.herokuapp.com/graph?username=Henrydykee&theme=chartreuse-dark
+  </a><p
+         
+<a href="https://app.daily.dev/henrydykee"><img src="https://api.daily.dev/devcards/d5da6d5935024ae791a7a0de216c2593.png?r=af8" width="400" alt="Ugochukwu Dike's Dev Card"/></a>       
 
 
 
