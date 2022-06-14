@@ -18,10 +18,10 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
  
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Henrydykee/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrydykee&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a><p
+  </a><p -->
          
 
 
