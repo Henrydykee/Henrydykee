@@ -1,4 +1,4 @@
-<h1 align='center'>Howdy,</h1>
+<h1 align='center'>So you found me!</h1>
 
 <p align='center'>I'm a Software Engineer focused on helping people bring their dreams to reality.</p>
 <p align='center'>I am open to gigs including startup projects because i am looking to expand my horizon</p>
