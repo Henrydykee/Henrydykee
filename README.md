@@ -1,5 +1,4 @@
 <h1 align='center'>So you found me 👽</h1>
-
 <p align='center'>I'm a Software Engineer focused on helping people bring their Mobile(Dart) dreams to reality.</p>
 <p align='center'>I am open to gigs including startup projects because i am looking to expand my horizon</p>
 <p align='center'>I lean towards working with fintech and web3 projects...never done anything on web3 yet, but i am learning</p>
