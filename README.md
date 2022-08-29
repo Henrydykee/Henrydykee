@@ -1,4 +1,4 @@
-<h1 align='center'>ANDROID</h1>
+<h1 align='center'>📲📱</h1>
 <p align='center'>I'm a Flutter developer</p>
 <p align='center'>I am open to gigs including startup projects because i am looking to expand my horizon</p>
 <p align='center'>I lean towards working with fintech and web3 projects...never done anything on web3 yet, but i am learning</p>
