@@ -1,7 +1,6 @@
 <h1 align='center'>📲📱</h1>
-<p align='center'>I'm a Flutter developer</p>
-<p align='center'>I am open to gigs including startup projects because i am looking to expand my horizon</p>
-<p align='center'>I lean towards working with fintech and web3 projects...never done anything on web3 yet, but i am learning</p>
+<p align='center'>Meet Henry, a skilled mobile developer with over three years of experience using Flutter and one year of experience using React Native. Henry has a strong understanding of both frameworks and is able to build high-quality, reliable apps that deliver an excellent user experience. With his expertise in Flutter and React Native, Henry is able to choose the right tool for the job and deliver solutions that meet the needs of his clients and users. In addition, Henry is always keeping up with the latest trends and developments in the mobile development world, ensuring that he is able to deliver the best possible results for any project.</p>
+
 <p align='center'>
 <p align="center" width="50%" height="50%">
 </p>
