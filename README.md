@@ -1,5 +1,6 @@
 <h1 align='center'>📲📱</h1>
-<p align='center'>Meet Henry, a skilled mobile developer with over three years of experience using Flutter and one year of experience using React Native. Henry has a strong understanding of both frameworks and is able to build high-quality, reliable apps that deliver an excellent user experience. With his expertise in Flutter and React Native, Henry is able to choose the right tool for the job and deliver solutions that meet the needs of his clients and users. In addition, Henry is always keeping up with the latest trends and developments in the mobile development world, ensuring that he is able to deliver the best possible results for any project.</p>
+<p align='center'>
+ Allow me to introduce you to Henry, the mobile wizard with over three years of experience in Flutter and a year of experience in React Native. Henry is a framework fanatic, building apps that dazzle users with their flawless performance and impressive features. Thanks to his mastery of Flutter and React Native, Henry can pick the perfect tool for any job and exceed his clients' and users' expectations. He's always up-to-date with the latest mobile development trends and advancements, so you can rest easy knowing that he's cooking up something epic for your project..</p>
 <p align='center'>
 <p align="center" width="50%" height="50%">
 </p>
