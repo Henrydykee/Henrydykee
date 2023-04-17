@@ -27,7 +27,6 @@
 
 ## 🏆 GitHub Trophies
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Henrydykee&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
 
 <hr>
