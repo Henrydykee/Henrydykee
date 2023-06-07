@@ -11,6 +11,7 @@ Here are some of Henry's skills and accomplishments:
 - Ability to work independently and as part of a team
 - Excellent communication and problem-solving skills
  
+ 
 </p>
 <p align='center'>
 <p align="center" width="50%" height="50%">
