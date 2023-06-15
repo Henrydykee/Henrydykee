@@ -2,6 +2,7 @@
 <p align='center'>
  
  Henry is a mobile development wizard with over three years of experience in Flutter and a year of experience in React Native. He is a framework fanatic, building apps that dazzle users with their flawless performance and impressive features. Thanks to his mastery of Flutter and React Native, Henry can pick the perfect tool for any job and exceed his clients' and users' expectations. He is always up-to-date with the latest mobile development trends and advancements, so you can rest easy knowing that he's cooking up something epic for your project.
+
  
 Here are some of Henry's skills and accomplishments:
 - Over 4 years of experience in Flutter
@@ -10,7 +11,6 @@ Here are some of Henry's skills and accomplishments:
 - Strong understanding of mobile app design and user experience
 - Ability to work independently and as part of a team
 - Excellent communication and problem-solving skills
- 
  
 </p>
 <p align='center'>
