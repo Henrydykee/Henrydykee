@@ -22,6 +22,7 @@ Henry's portfolio of work, including links to apps that he has developed
 - His educational background and certifications
 - His availability and rates
 
+
 </p>
 <p align='center'>
 <p align="center" width="50%" height="50%">
@@ -51,6 +52,3 @@ Henry's portfolio of work, including links to apps that he has developed
 [![trophy](https://github-profile-trophy.vercel.app/?username=Henrydykee&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
 
 <hr>
-
-
-
