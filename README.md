@@ -21,8 +21,6 @@ Henry's portfolio of work, including links to apps that he has developed
 - His experience with different types of mobile apps, such as social media apps, e-commerce apps, and games
 - His educational background and certifications
 - His availability and rates
-
-
 </p>
 <p align='center'>
 <p align="center" width="50%" height="50%">
