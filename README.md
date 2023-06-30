@@ -11,16 +11,8 @@ Here are some of Henry's skills and accomplishments:
 - Strong understanding of mobile app design and user experience
 - Ability to work independently and as part of a team
 - Excellent communication and problem-solving skills
-In addition to his technical skills, Henry is also a great communicator and problem-solver. He is able to clearly articulate his ideas to both technical and non-technical audiences, and he is always willing to go the extra mile to find solutions to complex problems.
 
-If you are looking for a mobile developer who can deliver high-quality results on time and within budget, then Henry is the perfect choice. He is a talented developer with a passion for mobile app development, and he is sure to exceed your expectations.
 
-Here are some additional details that could be added to the text:
-
-Henry's portfolio of work, including links to apps that he has developed
-- His experience with different types of mobile apps, such as social media apps, e-commerce apps, and games
-- His educational background and certifications
-- His availability and rates
 </p>
 <p align='center'>
 <p align="center" width="50%" height="50%">
