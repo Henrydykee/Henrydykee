@@ -1,6 +1,8 @@
 <h1 align='center'>📲📱</h1>
 <p align='right'>
-Henry is a mobile development expert with over four years of experience in Flutter. He is also proficient in React Native, and his mastery of both frameworks allows him to build apps that are both performant and feature-rich. Henry is always up-to-date on the latest mobile development trends, so you can be confident that he will deliver a high-quality product that meets your needs.
+
+  Henry is a mobile development expert with over four years of experience in Flutter. He is also proficient in React Native, and his mastery of both frameworks allows him to build apps that are both performant and feature-rich. Henry is always up-to-date on the latest 
+mobile development trends, so you can be confident that he will deliver a high-quality product that meets your needs.
 
 Here are some of Henry's skills and accomplishments:
 
@@ -10,6 +12,7 @@ Here are some of Henry's skills and accomplishments:
 - Strong understanding of mobile app design and user experience
 - Ability to work independently and as part of a team
 - Excellent communication and problem-solving skills
+  
 </p>
 <p align='center'>
 <p align="center" width="50%" height="50%">
