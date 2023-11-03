@@ -1,16 +1,16 @@
 <h1 align='center'>📲📱</h1>
 <p align='right'>
   
-Henry is a seasoned mobile development specialist, boasting more than four years of hands-on expertise in Flutter. Additionally, he possesses a high level of proficiency in React Native. Henry's adeptness in these two frameworks empowers him to craft applications that excel in both performance and feature richness. He remains constantly informed about the latest trends in mobile development, ensuring your confidence in his ability to deliver top-tier, tailor-made solutions to meet your specific requirements.
 
-Here are some of Henry's skills and accomplishments:
+Henry is a highly skilled mobile development specialist with over four years of experience in Flutter and React Native. He is able to create high-performance, feature-rich mobile apps using both native and cross-platform frameworks. Henry is always up-to-date on the latest trends in mobile development, so you can be confident that he will deliver a tailor-made solution to meet your specific needs.
 
-- Over four years of experience in dart
-- Expert in both native and cross-platform development
-- Experience with a wide range of mobile development tools and technologies
-- Strong understanding of mobile app design and user experience
-- Ability to work independently and as part of a team
-- Excellent communication and problem-solving skills
+Here are some of Henry's key skills and accomplishments:
+
+Expert in Dart, Flutter, and React Native
+Extensive experience with a wide range of mobile development tools and technologies
+Strong understanding of mobile app design and user experience
+Ability to work independently and as part of a team
+Excellent communication and problem-solving skills
   
 </p>
 <p align='center'>
