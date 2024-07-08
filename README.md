@@ -1,8 +1,7 @@
-<h1 align='center'>📲📱</h1>
+<h1 align='center'></h1>
 <p align='right'>
   
-
-Henry is a highly skilled mobile development specialist with over four years of experience in Flutter and React Native. He excels in creating high-performance, feature-rich mobile applications using both native and cross-platform frameworks. By staying current with the latest trends in mobile development, Henry ensures that he delivers tailored solutions to meet your unique needs.
+Henry is a highly skilled mobile development specialist with over five years of experience in Flutter and React Native. He excels in creating high-performance, feature-rich mobile applications using both native and cross-platform frameworks. By staying current with the latest trends in mobile development, Henry ensures that he delivers tailored solutions to meet your unique needs.
 
 ### Key Skills and Accomplishments:
 
