@@ -1,11 +1,9 @@
 <h1 align='center'></h1>
 <p align='right'>
   
-Henry is a seasoned Mobile Developer with over five years of expertise in Flutter and React Native. He excels at creating high-quality, feature-rich mobile applications tailored for both native and cross-platform environments. Proficient in Dart, Flutter, and React Native, Henry crafts innovative solutions that align with each client’s unique goals.  
+Ugo is a mobile development pro with 5+ years of experience building sleek, high-performing apps using Flutter. He crafts intuitive, feature-packed solutions that run like a dream on both native and cross-platform setups.  
 
-Leveraging a comprehensive suite of mobile development tools, Henry ensures his apps are optimized for seamless performance and efficiency. His designs prioritize user experience, delivering intuitive, enjoyable, and highly functional applications.  
-
-A strong communicator and effective problem-solver, Henry thrives in both independent and collaborative settings. He stays ahead of industry trends, incorporating modern technologies and best practices to consistently deliver cutting-edge mobile applications that exceed client expectations.
+A natural problem-solver and team player, Ugo blends cutting-edge tech with best practices to deliver apps that *wow*. And when he’s not coding, he’s secretly working on building his own racing car—because speed isn’t just for apps. 🚀
   
 </p>
 <p align='center'>
