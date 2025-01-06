@@ -1,9 +1,11 @@
 <h1 align='center'></h1>
 <p align='right'>
   
-Ugo is a mobile development pro with 5+ years of experience building sleek, high-performing apps using Flutter. He crafts intuitive, feature-packed solutions that run like a dream on both native and cross-platform setups.  
+As a seasoned Flutter developer with over 5 years of architecting cross-platform applications, I specialize in building intelligent, scalable solutions that bridge the gap between mobile development and artificial intelligence. My expertise spans the entire mobile development lifecycle, from conceptualizing AI-powered features to implementing them in production-ready Flutter applications.
 
-A natural problem-solver and team player, Ugo blends cutting-edge tech with best practices to deliver apps that *wow*. And when he’s not coding, he’s secretly working on building his own racing car—because speed isn’t just for apps. 🚀
+I've successfully delivered numerous apps that leverage machine learning models for enhanced user experiences, including real-time image processing, natural language understanding, and predictive analytics. My approach combines Flutter's versatile framework with TensorFlow Lite and MLKit integrations, ensuring smooth performance across both iOS and Android platforms.
+
+Beyond the code, I'm passionate about pushing the boundaries of what's possible in mobile AI. Currently, I'm exploring ways to integrate large language models into Flutter applications for more contextual and personalized user interactions. When I'm not experimenting with new AI implementations, you'll find me in my garage working on my custom racing car—because whether it's code or engines, I'm always optimizing for performance. 🚀
   
 </p>
 <p align='center'>
