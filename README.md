@@ -31,8 +31,9 @@ Beyond the code, I'm passionate about pushing the boundaries of what's possible 
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrydykee&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Henrydykee&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
-## 🏆 My GitHub Trophies
-
+ 🏆 My GitHub Trophies
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Henrydykee&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrydykee&theme=xcode&hide_border=true" />
 
 <hr>
