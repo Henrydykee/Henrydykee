@@ -1,12 +1,11 @@
 <h1 align='center'></h1>
 <p align='right'>
   
-As a seasoned Flutter developer with over 5 years of architecting cross-platform applications, I specialize in building intelligent, scalable solutions that bridge the gap between mobile development and artificial intelligence. My expertise spans the entire mobile development lifecycle, from conceptualizing AI-powered features to implementing them in production-ready Flutter applications.
+I'm a cross-platform mobile developer specializing in both Flutter and React Native, with over 5 years of experience architecting intelligent, scalable applications. My expertise lies in leveraging the unique strengths of both frameworks - Flutter's high-performance widget system and React Native's flexible native modules - to deliver exceptional user experiences.
 
-I've successfully delivered numerous apps that leverage machine learning models for enhanced user experiences, including real-time image processing, natural language understanding, and predictive analytics. My approach combines Flutter's versatile framework with TensorFlow Lite and MLKit integrations, ensuring smooth performance across both iOS and Android platforms.
+I've successfully integrated machine learning capabilities across multiple production apps, implementing real-time image processing, natural language understanding, and predictive analytics. My technical stack seamlessly combines Flutter's framework with TensorFlow Lite and React Native with TensorFlow.js, ensuring optimal performance across iOS and Android platforms.
 
-Beyond the code, I'm passionate about pushing the boundaries of what's possible in mobile AI. Currently, I'm exploring ways to integrate large language models into Flutter applications for more contextual and personalized user interactions. When I'm not experimenting with new AI implementations, you'll find me in my garage working on my custom racing car—because whether it's code or engines, I'm always optimizing for performance. 🚀
-  
+Currently, I'm exploring ways to integrate large language models into mobile applications for more contextual user interactions. When I'm not optimizing widget trees or reducing bridge traffic, you'll find me in my garage working on my custom racing car—because whether it's mobile frameworks or engines, I'm always fine-tuning for peak performance. 🚀
 </p>
 <p align='center'>
 <p align="center" width="50%" height="50%">
