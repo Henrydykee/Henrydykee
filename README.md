@@ -1,11 +1,8 @@
 <h1 align='center'></h1>
 <p align='right'>
-  
-I'm a cross-platform mobile developer specializing in both Flutter and React Native, with over 5 years of experience architecting intelligent, scalable applications. My expertise lies in leveraging the unique strengths of both frameworks - Flutter's high-performance widget system and React Native's flexible native modules - to deliver exceptional user experiences.
+  A passionate mobile app developer with over 5 years of experience turning cool ideas into real-world mobile solutions. I've built apps that help people in finance, health, logistics, and online shopping - and I'm proud that these apps have been downloaded over 100,000 times. My sweet spot is creating cross-platform apps using technologies like Dart and React Native, and I love taking designs from Figma and making them come alive on mobile screens. 
 
-I've successfully integrated machine learning capabilities across multiple production apps, implementing real-time image processing, natural language understanding, and predictive analytics. My technical stack seamlessly combines Flutter's framework with TensorFlow Lite and React Native with TensorFlow.js, ensuring optimal performance across iOS and Android platforms.
-
-Currently, I'm exploring ways to integrate large language models into mobile applications for more contextual user interactions. When I'm not optimizing widget trees or reducing bridge traffic, you'll find me in my garage working on my custom racing car—because whether it's mobile frameworks or engines, I'm always fine-tuning for peak performance. 🚀
+I'm not just about writing code - I'm about solving real problems. Whether it's helping people manage their finances, track their health, or make their work easier, I enjoy building apps that make a difference. I'm always learning, currently diving deeper into React, TypeScript, and MongoDB to stay ahead of the tech curve. With a knack for working with complex APIs and understanding the nitty-gritty of different industries, I turn technical challenges into smooth, user-friendly experiences.
 </p>
 <p align='center'>
 <p align="center" width="50%" height="50%">
