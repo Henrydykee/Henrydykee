@@ -2,7 +2,7 @@
 <p align='center'>
 A passionate mobile app developer with over 5 years of experience turning cool ideas into real-world mobile solutions. I've built apps that help people in finance, health, logistics, and online shopping - and I'm proud that these apps have been downloaded over 100,000 times. My sweet spot is creating cross-platform apps using technologies like Dart and React Native, and I love taking designs from Figma and making them come alive on mobile screens. 
 
-I'm not just about writing code - I'm about solving real problems. Whether it's helping people manage their finances, track their health, or make their work easier, I enjoy building apps that make a difference. I'm always learning, currently diving deeper into React, TypeScript, and MongoDB to stay ahead of the tech curve. With a knack for working with complex APIs and understanding the nitty-gritty of different industries, I turn technical challenges into smooth, user-friendly experiences.
+I'm not just about writing code I'm about solving real problems. Whether it's helping people manage their finances, track their health, or make their work easier, I enjoy building apps that make a difference. I'm always learning, currently diving deeper into React, TypeScript, and MongoDB to stay ahead of the tech curve. With a knack for working with complex APIs and understanding the nitty-gritty of different industries, I turn technical challenges into smooth, user-friendly experiences.
 </p>
 <p align='center'>
 <p align="center" width="50%" height="50%">
