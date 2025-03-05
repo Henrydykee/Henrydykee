@@ -45,7 +45,7 @@ With a passion for transforming digital concepts into user-friendly mobile exper
 ## 🔥 Coding Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrydykee&theme=tokyonight" alt="Henry's GitHub Streak" />
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Henrydykee)](https://git.io/streak-stats)" />
 </div>
 
 ## 🏆 Achievements & Milestones
