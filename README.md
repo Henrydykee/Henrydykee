@@ -1,6 +1,6 @@
 # Hi there, I'm Ugochukwu Dike 👨‍💻🚀
 
-## 📱 Mobile App Development Maestro
+## 📱 Mobile App Development
 
 With a passion for transforming digital concepts into user-friendly mobile experiences, I've been crafting innovative applications that solve real-world problems. My journey in mobile development has been about more than just writing code—it's about creating solutions that enhance people's lives.
 
@@ -59,9 +59,6 @@ With a passion for transforming digital concepts into user-friendly mobile exper
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrydykee&theme=tokyo-night" alt="Henry's Contribution Graph" />
 </div>
-
----
-
 <div align="center">
   <p>Crafting code, creating experiences 💻✨</p>
   <sub>Made with ❤️ by Henry Dike</sub>
