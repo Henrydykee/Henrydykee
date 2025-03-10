@@ -8,7 +8,6 @@ With a passion for transforming digital concepts into user-friendly mobile exper
 - **Experience:** 5+ years in mobile app development
 - **Specialization:** Cross-platform applications
 - **Impact:** 100,000+ app downloads across various industries
-- **Technologies:** Dart, React Native, Flutter
 
 ### 🛠️ Tools
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
