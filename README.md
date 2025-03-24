@@ -41,12 +41,6 @@ With a passion for transforming digital concepts into user-friendly mobile exper
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrydykee&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## 🔥 Coding Streak
-
-<div align="center">
-  <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Henrydykee&theme=dark)](https://git.io/streak-stats)" />
-</div>
-
 ## 🏆 Achievements & Milestones
 
 <div align="center">
