@@ -54,5 +54,5 @@ With a passion for transforming digital concepts into user-friendly mobile exper
 </div>
 <div align="center">
   <p>Crafting code, creating experiences 💻✨</p>
-  <sub>Made with ❤️ by Henry Dike</sub>
+  <sub>Made with ❤️ </sub>
 </div>
