@@ -2,7 +2,7 @@
 
 ## 📱 Mobile App Development
 
-With a passion for transforming digital concepts into user-friendly mobile experiences, I've been crafting innovative applications that solve real-world problems. My journey in mobile development has been about more than just writing code—it's about creating solutions that enhance people's lives
+With a passion for transforming digital concepts into user-friendly mobile experiences, I've been crafting innovative applications that solve real-world problems. My journey in mobile development has been about more than just writing code—it's about creating solutions that enhance people's lives.
 
 ### 💡 Professional Snapshot
 - **Experience:** 5+ years in mobile app development
