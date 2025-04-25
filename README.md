@@ -1,4 +1,4 @@
-# Hi there, I'm Ugochukwu Dike 👨‍💻🚀
+# Hi there, I'm Ugochukwu 👨‍💻🚀
 
 ## 📱 Mobile App Development
 
