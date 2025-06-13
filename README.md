@@ -5,9 +5,9 @@
 Seriously i just want to code and go home 
 
 ### 💡 Professional Snapshot
-- **Experience:** 5+ years in mobile app development
-- **Specialization:** Cross-platform applications
-- **Impact:** 100,000+ app downloads across various industries
+- **Experience:** 5+ years in mobile app development.
+- **Specialization:** Cross-platform applications.
+- **Impact:** 100,000+ app downloads across various industries.
 
 ### 🛠️ Tools
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
