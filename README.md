@@ -39,7 +39,7 @@ Seriously i just want to code and go home
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrydykee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrydykee&layout=compact&langs_count=7&theme=tokyonight"/>
-  <figure><embed src="https://wakatime.com/share/@henrydykee/818e1231-7211-412c-b41a-d3f383354548.svg"></embed></figure>
+
 </div>
 
 ## 🏆 Achievements & Milestones
