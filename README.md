@@ -54,6 +54,6 @@ Seriously i just want to code and go home
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrydykee&theme=tokyo-night" alt="Henry's Contribution Graph" />
 </div>
 <div align="center">
-  <p>Crafting code, creating experiences 💻✨</p>
-  <sub>Made with ❤️ </sub>
+<!--   <p>Crafting code, creating experiences 💻✨</p>
+  <sub>Made with ❤️ </sub> -->
 </div>
