@@ -1,45 +1,58 @@
 <div align="center">
 
-# 🔥 Ugochukwu Dike | Mobile Dev Wizard
+```
+██╗   ██╗ ██████╗  ██████╗  ██████╗██╗  ██╗██╗   ██╗██╗  ██╗██╗   ██╗██╗   ██╗
+██║   ██║██╔════╝ ██╔═══██╗██╔════╝██║  ██║██║   ██║██║ ██╔╝██║   ██║██║   ██║
+██║   ██║██║  ███╗██║   ██║██║     ███████║██║   ██║█████╔╝ ██║   ██║██║   ██║
+██║   ██║██║   ██║██║   ██║██║     ██╔══██║██║   ██║██╔═██╗ ██║   ██║██║   ██║
+╚██████╔╝╚██████╔╝╚██████╔╝╚██████╗██║  ██║╚██████╔╝██║  ██╗╚██████╔╝╚██████╔╝
+ ╚═════╝  ╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ 
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=600&height=100&lines=const+developer+%3D+%7B;++name%3A+'Ugochukwu+Dike'%2C;++role%3A+'Mobile+App+Developer'%2C;++motto%3A+'Code%2C+Ship%2C+Repeat+%F0%9F%9A%80';%7D%3B" alt="Code Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=600&lines=Mobile+Developer+%7C+Cross-Platform+Specialist;React+Native+%E2%80%A2+Flutter+%E2%80%A2+TypeScript;100%2C000%2B+Downloads+%26+Counting;%22Code%2C+Ship%2C+Repeat%22+%E2%9A%A1" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Henrydykee&color=FF6B35&style=flat-square&label=Views" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Henrydykee?color=FF6B35&style=flat-square&logo=github&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/badge/Focus-Mobile%20Development-FF6B35?style=flat-square" alt="Focus" />
+![Profile Views](https://komarev.com/ghpvc/?username=Henrydykee&color=black&style=flat&label=VISITORS)
+![Commits](https://img.shields.io/badge/COMMITS-2000%2B-black?style=flat)
+![Status](https://img.shields.io/badge/STATUS-AVAILABLE-black?style=flat)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## ▓▓▓ DEVELOPER.PROFILE
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### 👨‍💻 Developer Profile
-```yaml
-Name: Ugochukwu Dike
-Role: Senior Mobile Developer
-Experience: 5+ Years
-Specialty: Cross-Platform Apps
-Impact: 100,000+ Downloads
-Location: Lagos, Nigeria 🇳🇬
-Status: Available for Projects
+```ascii
+┌─────────────────────────────────────┐
+│ > whoami                            │
+├─────────────────────────────────────┤
+│ Name:        Ugochukwu Dike          │
+│ Role:        Mobile App Developer    │
+│ Experience:  5+ Years                │
+│ Location:    Lagos, Nigeria          │
+│ Specialty:   Cross-Platform Apps     │
+│ Downloads:   100,000+                │
+│ Focus:       Clean Code & Performance│
+└─────────────────────────────────────┘
+
+> cat motivation.txt
+"Seriously, I just want to code and go home"
+
+> ls skills/
+react-native/  flutter/  typescript/
+firebase/      docker/   problem-solving/
+
+> grep -i "passion" about.txt
+Building apps that users actually love ♥
 ```
 
-### 🎮 Fun Facts
-- 🌙 Night owl coder
-- ☕ Coffee-driven development
-- 🎯 Clean code enthusiast  
-- 🚀 Performance optimizer
-- 🔧 Problem solver by nature
-
 </td>
-<td width="50%">
+<td width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Henrydykee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Henrydykee&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&border_color=000000" />
 
 </td>
 </tr>
@@ -47,114 +60,154 @@ Status: Available for Projects
 
 ---
 
-## 🛠️ Tech Heat Map
+## ▓▓▓ TECHNOLOGY.STACK
 
 <div align="center">
 
-### 🔥 Primary Stack (Daily Use)
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+### ████ PRIMARY ARSENAL
+```
+React Native    ████████████████████ 95%
+Flutter         ████████████████░░░░ 80%
+TypeScript      ████████████████████ 90%
+JavaScript      ████████████████████ 92%
+Firebase        ████████████████░░░░ 85%
+```
 
-### 🌡️ Secondary Stack (Weekly Use)
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-
-### ❄️ Learning Stack (Exploring)
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+### ▓▓▓▓ SECONDARY TOOLS
+<img src="https://img.shields.io/badge/Supabase-000000?style=flat&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-000000?style=flat&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white" />
 
 </div>
 
 <details>
-<summary>📊 <strong>Detailed Technology Breakdown</strong></summary>
-
-| Technology | Proficiency | Projects | Last Used |
-|------------|-------------|----------|-----------|
-| React Native | ████████████ 95% | 15+ | This week |
-| Flutter | ██████████░░ 85% | 12+ | This week |
-| JavaScript/TS | ████████████ 90% | 20+ | Daily |
-| Firebase | ███████████░ 88% | 18+ | This week |
-| Supabase | ████████░░░░ 75% | 8+ | This month |
-| Docker | ███████░░░░░ 70% | 10+ | This month |
-| Node.js | ████████░░░░ 80% | 14+ | This week |
-
-</details>
-
----
-
-## 📈 GitHub Heat Map Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Henrydykee&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrydykee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9" width="49%" />
-
-</div>
-
-### 🔥 Contribution Heat Map
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrydykee&theme=redical&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🚀 Project Heat Map
-
-<div align="center">
-
-### 🔥 Hot Projects (Active Development)
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrydykee&repo=ecommerce-mobile-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrydykee&repo=healthcare-management&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9" /></a>
-
-</div>
-
-<details>
-<summary>🌡️ <strong>All Projects Temperature</strong></summary>
+<summary><strong>█ DETAILED BREAKDOWN</strong></summary>
 
 ```
-🔥🔥🔥 HOT (Active)
-├── E-commerce Mobile App (React Native + Firebase)
-├── Healthcare Management System (Flutter + Supabase)
-└── Real-time Chat Platform (React Native + WebRTC)
+MOBILE DEVELOPMENT
+├── React Native      ████████████████████ Expert
+├── Flutter           ████████████████░░░░ Advanced
+├── Expo              ████████████████░░░░ Advanced
+└── Native iOS/Android ████████░░░░░░░░░░░░ Intermediate
 
-🌡️🌡️ WARM (Maintenance)
-├── Business Portfolio App (Flutter)
-├── Food Delivery Clone (React Native)
-└── Fitness Tracker (Cross-platform)
+LANGUAGES
+├── JavaScript/TS     ████████████████████ Expert
+├── Dart              ████████████████░░░░ Advanced
+├── Python            ████████░░░░░░░░░░░░ Intermediate
+└── Java              ████████░░░░░░░░░░░░ Intermediate
 
-❄️ COOL (Archived)
-├── Learning Management System
-├── Social Media Dashboard
-└── Weather App Collection
+BACKEND & DATABASE
+├── Firebase          ████████████████░░░░ Advanced
+├── Supabase          ████████████░░░░░░░░ Intermediate
+├── Node.js           ████████████████░░░░ Advanced
+└── PostgreSQL        ████████░░░░░░░░░░░░ Intermediate
+
+DEVOPS & TOOLS
+├── Docker            ████████████░░░░░░░░ Intermediate
+├── Git/GitHub        ████████████████████ Expert
+├── CI/CD             ████████░░░░░░░░░░░░ Intermediate
+└── AWS/GCP           ████░░░░░░░░░░░░░░░░ Basic
 ```
 
 </details>
 
 ---
 
-## 🏆 Achievement Heat Map
+## ▓▓▓ GITHUB.ANALYTICS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Henrydykee&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Commits,Repositories,PullRequest" />
+<img src="https://github-readme-stats.vercel.app/api?username=Henrydykee&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Henrydykee&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" width="48%" />
 
-### 📊 Impact Metrics
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrydykee&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" width="60%" />
+
+</div>
+
+### ■ CONTRIBUTION PATTERN
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrydykee&theme=minimal&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## ▓▓▓ PROJECT.PORTFOLIO
+
+<div align="center">
+
+```
+┌─ ACTIVE PROJECTS ─────────────────────┐
+│                                       │
+│ ▓ E-commerce Mobile App               │
+│   React Native + Firebase            │
+│   50,000+ Downloads                   │
+│                                       │
+│ ▓ Healthcare Management System        │
+│   Flutter + Supabase                 │
+│   Real-time Data Sync                │
+│                                       │
+│ ▓ Real-time Chat Platform             │
+│   React Native + WebRTC              │
+│   End-to-end Encryption              │
+│                                       │
+└───────────────────────────────────────┘
+```
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrydykee&repo=ecommerce-app&theme=default&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrydykee&repo=healthcare-system&theme=default&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" /></a>
+
+</div>
+
+<details>
+<summary><strong>█ ALL PROJECTS</strong></summary>
+
+```
+STATUS  PROJECT                    TECH STACK              DOWNLOADS
+───────────────────────────────────────────────────────────────────
+🔴 LIVE  E-commerce App            React Native + Firebase    50K+
+🔴 LIVE  Healthcare System         Flutter + Supabase        25K+  
+🔴 LIVE  Chat Platform             React Native + WebRTC     15K+
+🔴 LIVE  Fitness Tracker           Cross-platform            10K+
+🟡 BETA  Business Portfolio        Flutter                     5K+
+🟡 BETA  Food Delivery Clone       React Native               3K+
+⚫ ARCH  Learning Management       Flutter                     2K+
+⚫ ARCH  Social Dashboard          React Native               1K+
+```
+
+</details>
+
+---
+
+## ▓▓▓ ACHIEVEMENTS.LOG
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Henrydykee&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4" />
+
+### ■ IMPACT METRICS
+
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Total_Downloads-100K+-FF6B35?style=for-the-badge&logo=download&logoColor=white" />
+<strong>100,000+</strong><br>
+<sub>Total Downloads</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Apps_Published-15+-FF6B35?style=for-the-badge&logo=mobile&logoColor=white" />
+<strong>15+</strong><br>
+<sub>Published Apps</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Client_Projects-25+-FF6B35?style=for-the-badge&logo=briefcase&logoColor=white" />
+<strong>25+</strong><br>
+<sub>Client Projects</sub>
+</td>
+<td align="center">
+<strong>5+</strong><br>
+<sub>Years Experience</sub>
 </td>
 </tr>
 </table>
@@ -163,25 +216,45 @@ Status: Available for Projects
 
 ---
 
-## 🔥 Contact Heat Map
+## ▓▓▓ CONTACT.INTERFACE
 
 <div align="center">
 
-### 🚨 Priority Channels (Fastest Response)
-<a href="https://wa.me/2347012053471?text=Hello%20Ugochukwu%20I%20need%20you%20for%20a%20project"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" /></a>
-<a href="mailto:dykeehenry@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
-
-### 🌐 Professional Network
-<a href="https://www.linkedin.com/in/ugochukwu-dike-33027b175/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/henry_dykee"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://github.com/Henrydykee"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
-
-### 📍 Response Time Heat Map
 ```
-🔥 WhatsApp: < 2 hours
-🌡️ Email: < 6 hours  
-❄️ LinkedIn: < 24 hours
+┌─ COMMUNICATION CHANNELS ──────────────┐
+│                                       │
+│ [HIGH PRIORITY]                       │
+│ ▓ WhatsApp    Response: < 2 hours     │
+│ ▓ Email       Response: < 6 hours     │
+│                                       │
+│ [STANDARD]                            │
+│ ▓ LinkedIn    Response: < 24 hours    │
+│ ▓ Twitter     Response: < 48 hours    │
+│                                       │
+└───────────────────────────────────────┘
 ```
+
+### ■ DIRECT LINKS
+
+<a href="https://wa.me/2347012053471?text=Hello%20Ugochukwu%20I%20need%20you%20for%20a%20project">
+<img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="mailto:dykeehenry@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ugochukwu-dike-33027b175/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/henry_dykee">
+<img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=twitter&logoColor=white" />
+</a>
+<a href="https://github.com/Henrydykee">
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+</a>
+
+### ■ AVAILABILITY STATUS
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Status%3A+AVAILABLE+FOR+NEW+PROJECTS;Looking+for%3A+Mobile+App+Development;Specializing+in%3A+React+Native+%7C+Flutter;Let's+build+something+amazing+together!" alt="Status" />
 
 </div>
 
@@ -189,14 +262,15 @@ Status: Available for Projects
 
 <div align="center">
 
-### 💼 Open for Business
+```
+ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ █ "Great mobile apps are born from great ideas,        █
+ █  crafted with precision, and delivered with passion" █
+ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Available+for+Mobile+App+Projects;React+Native+%7C+Flutter+Specialist;Let's+build+something+amazing!" alt="Availability" />
+**■ UGOCHUKWU.DIKE** | Mobile Developer | Lagos, Nigeria | 2025
 
-<br><br>
-
-**💡 "Great mobile apps don't happen by accident. They're crafted with passion, precision, and a lot of coffee ☕"**
-
-<sub>🔥 Heating up the mobile development space, one app at a time</sub>
+<sub>Minimalist design • Maximum impact • Pure code</sub>
 
 </div>
