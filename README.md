@@ -10,9 +10,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
@@ -22,16 +20,6 @@
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrydykee&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrydykee&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henrydykee&theme=tokyonight)
-
----
-
-## 📱 Current Projects
-- **E-Commerce App** — React Native + Firebase  
-  📥 50K+ downloads • ⭐ 4.8  
-- **Healthcare Management** — Flutter + Supabase  
-  📥 25K+ downloads • ⭐ 4.7  
-- **Realtime Chat Platform** — React Native + WebRTC  
-  📥 15K+ downloads • ⭐ 4.6  
 
 ---
 
