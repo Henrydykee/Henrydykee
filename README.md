@@ -33,5 +33,3 @@
 
 > _"Great apps aren’t accidents. They’re built with passion and precision."_
 
-
-THIS IS MY GITHUB README PAGE..i want you to make i standout and i want to pose as a fullstack mobile developer
